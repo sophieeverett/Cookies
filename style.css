@@ -1,0 +1,24 @@
+h1 {
+    font-size: 100px;
+    font-family: 'Pacifico', cursive;
+    color: #8EAFFF;
+}
+
+h2 {
+  font-size: 30px;
+  color: #E85057;
+  font-family: 'Pacifico', cursive;
+}
+
+li {
+  line-height: 1.2;
+}
+
+body {
+  margin: 20px;
+}
+
+p {
+  font-style: italic;
+  line-height: 1.2;
+}
